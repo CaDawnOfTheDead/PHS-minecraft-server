@@ -1,5 +1,7 @@
 # replit eaglercraft server
 
+### ty [Byte#9476](https://replit.com/@ant-7802) for fixing the forwarding issue!!
+
 [extra help discord server](https://discord.gg/9HfPSp3D)
 |
 [anotha one](https://discord.gg/FBqfmDkF2Z)
@@ -53,7 +55,7 @@ Eaglercraft is Minecraft 1.5.2, so plugins you will use will have to be supporte
 
 **Official Plugin Collection**
 
-https://github.com/LAX1DUDE/eaglercraft-plugins
+i
 
 **Some plugins I suggest you use:**
 
